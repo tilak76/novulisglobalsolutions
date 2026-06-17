@@ -1,0 +1,10 @@
+{
+  "total_routes_discovered": 1,
+  "successful_routes": [
+    "/login",
+    "/dashboard/my-applications"
+  ],
+  "failed_routes": [],
+  "retries": 1,
+  "missed_data": []
+}

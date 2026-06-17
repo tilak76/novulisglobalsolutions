@@ -1,0 +1,10 @@
+node_modules
+.env
+.env.local
+.DS_Store
+dist
+build
+.next
+out
+frontend/node_modules
+my-next-dashboard/node_modules

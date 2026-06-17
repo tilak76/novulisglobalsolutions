@@ -1,0 +1,15 @@
+[
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "text_block",
+    "component_selector": "#header > title",
+    "actual_text_content": "Waiver Portal",
+    "expected_text_content": "WaiverPro Official Dashboard",
+    "guideline_reference": "Section 4: Header Branding",
+    "discrepancy_flag": true,
+    "discrepancy_reason": "The header text 'Waiver Portal' does not match the official brand name 'WaiverPro Official Dashboard'.",
+    "severity": "Critical",
+    "screenshot_path": "dashboard_my-applications.png",
+    "retrieved_at": "2026-06-17T06:01:56.438Z"
+  }
+]

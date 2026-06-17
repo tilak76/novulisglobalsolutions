@@ -1,0 +1,16 @@
+[
+  {
+    "guideline_reference": "Section 2: Login",
+    "expected_text_content": "Sign In",
+    "component_type": "button",
+    "description": "The login page must have a primary Sign In button.",
+    "page_url_hint": "/login"
+  },
+  {
+    "guideline_reference": "Section 4: Dashboard Overview",
+    "expected_text_content": "My Applications",
+    "component_type": "text_block",
+    "description": "The dashboard must explicitly state My Applications in the header.",
+    "page_url_hint": "/dashboard"
+  }
+]
